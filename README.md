@@ -1,6 +1,6 @@
-# Computer-Vision-in-Python
+# Computer-Vision-with-Python
 
-This is the code repository for Computer Vision using Python 3 and OpenCV
+This is the code repository for Computer Vision using Python 3, OpenCV, Matplotlib, numpy libraries
 
 ## Requirements
   * python 3
